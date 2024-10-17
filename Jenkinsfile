@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Built') {
       steps {
-        load '/Users/Abhay/Documents/Labs/Groovy'
+        load '/Users/Abhay/Documents/Labs/Groovy/test.groovy'
       }
     }
 
